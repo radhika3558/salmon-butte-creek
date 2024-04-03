@@ -418,7 +418,7 @@ blockquote:nth-of-type(even) footer:after {
     }
 
     .with-image-bg {
-        background-image: url('bg-image.jpg');
+        background-image: url('chinook.jpg');
     }
 
     .video-background {
